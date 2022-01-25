@@ -2,7 +2,11 @@
 
 ## 说明
 
-基于openwrt 21.02以及https://github.com/trojan-gfw/openwrt-trojan的文件编译而成
+基于openwrt 21.02官方源码以及
+
+https://github.com/trojan-gfw/openwrt-trojan
+
+编译而成。
 
 ## 适用范围
 
